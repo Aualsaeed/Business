@@ -1,0 +1,31 @@
+body {
+    color:  black;
+    background-image: url('backgrounds/new8.jpeg');
+    font-size: larger;
+}
+
+footer {
+    position: fixed;
+    text-align: right;
+    color: black;
+    background-color: white;
+    float: left;
+    right: 0;
+    bottom: 0;
+}
+
+header {
+    text-align: center;
+    color: black;
+    background-color: rgb(53, 13, 231);
+    clear: both;
+    padding: 2px;
+    margin: 0px;
+    margin-top: 0%;
+    margin-left: 0;
+    margin-right: 0;
+    
+ 
+}
+
+ 

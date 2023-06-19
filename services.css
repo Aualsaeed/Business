@@ -1,0 +1,23 @@
+header {
+    color: grey;
+    background-color: gold;
+    text-align: left;
+    clear: both;
+    padding: 15px;
+    margin: 0px;
+    margin-top: 0%;
+    margin-left: 0;
+    margin-right: 0;
+    
+}
+
+img {
+    width: 600px;
+    height: 800px;
+}
+
+body {
+    background-image: url('backgrounds/new7.jpeg');
+    color: gold;
+
+}
